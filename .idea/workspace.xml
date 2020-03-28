@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15880613-2666-4845-9132-3613fd475250" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="15880613-2666-4845-9132-3613fd475250" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +41,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585397245278</updated>
-      <workItem from="1585397247227" duration="226000" />
+      <workItem from="1585397247227" duration="514000" />
     </task>
+    <task id="LOCAL-00001" summary="creating a node variable and a list of Integer">
+      <created>1585397779879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585397779879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,6 +66,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creating a node variable and a list of Integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating a node variable and a list of Integer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="708" y="10" key="CommitChangelistDialog2" timestamp="1585394295255">
