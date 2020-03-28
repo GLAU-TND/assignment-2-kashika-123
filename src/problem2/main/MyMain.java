@@ -7,6 +7,7 @@
 package problem2.main;
 
 import problem1.mybst.MyBinarySearchTree;
+import problem1.node.TreeNode;
 
 import java.util.Scanner;
 
@@ -19,6 +20,11 @@ public class MyMain {
         System.out.println("enter teh no of nodes");
         int n = sc.nextInt();
         while (n-- > 0) {
+            System.out.println("enter data");
+            int value = sc.nextInt();
+            TreeNode node = new TreeNode();
+            node.setData(value);
+            bst.insert(node);
 
         }
     }
