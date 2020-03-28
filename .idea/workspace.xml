@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15880613-2666-4845-9132-3613fd475250" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/problem3/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/main/MyMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="15880613-2666-4845-9132-3613fd475250" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MyMain (1)">
+    <configuration name="MyMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem3.main.MyMain" />
+      <module name="assignment-2-kashika-123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem3.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem1.main.MyMain" />
       <module name="assignment-2-kashika-123" />
@@ -49,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyMain (1)" />
         <item itemvalue="Application.MyMain" />
       </list>
     </recent_temporary>
@@ -63,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585397245278</updated>
-      <workItem from="1585397247227" duration="8451000" />
+      <workItem from="1585397247227" duration="8699000" />
     </task>
     <task id="LOCAL-00001" summary="creating a node variable and a list of Integer">
       <created>1585397779879</created>
@@ -317,7 +329,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585405771893</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="taking all the inputs from user and adding to student then performing enqueue operation">
+      <created>1585406191454</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1585406191454</updated>
+    </task>
+    <task id="LOCAL-00038" summary="completed problem 3">
+      <created>1585406267810</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1585406267810</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,8 +361,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="creating object of MyBinarySearchTree and taking no of node from user as input" />
-    <MESSAGE value="taking user data and making a list" />
     <MESSAGE value="problem 1 completed" />
     <MESSAGE value="creating object of MyBinarySearchTree and taking user input of no of nodes and traversing according to that" />
     <MESSAGE value="taking user data and inserting in the list" />
@@ -360,7 +384,9 @@
     <MESSAGE value="creating getter and setter for node variable front" />
     <MESSAGE value="enqueue operation to add new node" />
     <MESSAGE value="dequeue operation to delete a node" />
-    <option name="LAST_COMMIT_MESSAGE" value="dequeue operation to delete a node" />
+    <MESSAGE value="taking all the inputs from user and adding to student then performing enqueue operation" />
+    <MESSAGE value="completed problem 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed problem 3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
