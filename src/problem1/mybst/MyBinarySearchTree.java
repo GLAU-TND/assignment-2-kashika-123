@@ -39,6 +39,9 @@ public class MyBinarySearchTree {
             if (newNode.getData() > current.getData()) {
                 current = current.getRightNode();
                 isLeft = false;
+            } else {
+                current = current.getRightNode();
+                isLeft = true;
             }
         }
 
