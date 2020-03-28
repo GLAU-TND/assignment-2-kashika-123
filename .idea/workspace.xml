@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15880613-2666-4845-9132-3613fd475250" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem1/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/main/MyMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585397245278</updated>
-      <workItem from="1585397247227" duration="1588000" />
+      <workItem from="1585397247227" duration="2000000" />
     </task>
     <task id="LOCAL-00001" summary="creating a node variable and a list of Integer">
       <created>1585397779879</created>
@@ -108,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585398737835</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="a method to add elements in the list">
+      <created>1585398886948</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585398886948</updated>
+    </task>
+    <task id="LOCAL-00011" summary="a method to to get the elements of list">
+      <created>1585399065846</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585399065846</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +149,9 @@
     <MESSAGE value="if isleft is true then set leftnodeto newnode else rightnode to newnode" />
     <MESSAGE value="a method to show the left node" />
     <MESSAGE value="a method to get the data of right and left node" />
-    <option name="LAST_COMMIT_MESSAGE" value="a method to get the data of right and left node" />
+    <MESSAGE value="a method to add elements in the list" />
+    <MESSAGE value="a method to to get the elements of list" />
+    <option name="LAST_COMMIT_MESSAGE" value="a method to to get the elements of list" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
