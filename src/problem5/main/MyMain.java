@@ -7,6 +7,8 @@
 package problem5.main;
 
 import problem5.circularqueue.MyCircularQueue;
+import problem5.node.Node;
+import problem5.student.Student;
 
 import java.util.Scanner;
 
@@ -18,6 +20,22 @@ public class MyMain {
         System.out.println("Enter number of records you wants to enter");
         int numberOfRecords = sc.nextInt();
         while (numberOfRecords != 0) {
+            Student student = new Student();
+            Node node = new Node();
+            System.out.println("enter name");
+            student.setName(sc.next().trim());
+            System.out.println("enter roll number");
+            student.setRollNumber(sc.nextInt());
+            System.out.println("enter backlogs");
+            int backlogs = sc.nextInt();
+            if (backlogs > 2) {
+                System.out.println("This student is not allowed");
+                continue;
+            }
+            student.setBackLogCounter(backlogs);
+            node.setStudent(student);
+            circularQueue.enQueue(node);
+            numberOfRecords--;
 
         }
 
