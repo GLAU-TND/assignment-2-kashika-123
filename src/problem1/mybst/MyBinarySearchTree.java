@@ -31,6 +31,12 @@ public class MyBinarySearchTree {
             setRoot(newNode);
             return;
         }
+        TreeNode parent = null;
+        TreeNode current = getRoot();
+        boolean isLeft = true;
+        while (current != null) {
+            parent = null;
+        }
     }
 
 }
