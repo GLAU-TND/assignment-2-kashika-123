@@ -63,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585397245278</updated>
-      <workItem from="1585397247227" duration="4640000" />
+      <workItem from="1585397247227" duration="5000000" />
     </task>
     <task id="LOCAL-00001" summary="creating a node variable and a list of Integer">
       <created>1585397779879</created>
@@ -240,7 +240,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585401810404</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="a method to perform dequeue operation">
+      <created>1585401980175</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585401980175</updated>
+    </task>
+    <task id="LOCAL-00027" summary="a method to perform to remove zerobacklogrecords">
+      <created>1585402072268</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585402072268</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,8 +272,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="getter and setter for root" />
-    <MESSAGE value="insert method for node" />
     <MESSAGE value="traversing until current is not null" />
     <MESSAGE value="to get the right node if newnode is greater than currentnode" />
     <MESSAGE value="else getting the right node" />
@@ -283,7 +295,9 @@
     <MESSAGE value="creating getter and setter for  two node type variables rear and front" />
     <MESSAGE value="a method to perform enqueue operation" />
     <MESSAGE value="a method to traverse" />
-    <option name="LAST_COMMIT_MESSAGE" value="a method to traverse" />
+    <MESSAGE value="a method to perform dequeue operation" />
+    <MESSAGE value="a method to perform to remove zerobacklogrecords" />
+    <option name="LAST_COMMIT_MESSAGE" value="a method to perform to remove zerobacklogrecords" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
