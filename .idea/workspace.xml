@@ -8,10 +8,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Zks0F4LIMI3YuLFUVJnGU1wUP1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -75,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585397245278</updated>
-      <workItem from="1585397247227" duration="8699000" />
+      <workItem from="1585397247227" duration="8973000" />
     </task>
     <task id="LOCAL-00001" summary="creating a node variable and a list of Integer">
       <created>1585397779879</created>
@@ -343,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585406267810</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="making getter and setter">
+      <created>1585406546237</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1585406546237</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,7 +378,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="problem 1 completed" />
     <MESSAGE value="creating object of MyBinarySearchTree and taking user input of no of nodes and traversing according to that" />
     <MESSAGE value="taking user data and inserting in the list" />
     <MESSAGE value="problem 2 completed" />
@@ -386,7 +402,8 @@
     <MESSAGE value="dequeue operation to delete a node" />
     <MESSAGE value="taking all the inputs from user and adding to student then performing enqueue operation" />
     <MESSAGE value="completed problem 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed problem 3" />
+    <MESSAGE value="making getter and setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="making getter and setter" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
