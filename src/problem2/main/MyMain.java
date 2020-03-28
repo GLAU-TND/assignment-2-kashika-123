@@ -27,6 +27,11 @@ public class MyMain {
             bst.insert(node);
 
         }
+        System.out.println("----Pre order traversal--out--");
+        bst.showTreeData(bst.getRoot());
+        System.out.println("----Post order traversal----");
+        bst.postOrderTraversal(bst.getRoot());
+        System.out.println("First statement is valid but Second is not.");
     }
 
 }
