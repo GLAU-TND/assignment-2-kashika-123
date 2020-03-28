@@ -66,4 +66,8 @@ public class MyCircularQueue {
         }
         return temp;
     }
+
+    public void removeZeroBacklogRecords() {
+
+    }
 }
