@@ -13,6 +13,14 @@ public class Node {
     private Student student;
     private Node nextNode;
 
+    @Override
+    public String toString() {
+        return "Node{" +
+                "student=" + student +
+                ", nextNode=" + nextNode +
+                '}';
+    }
+
     public Student getStudent() {
         return student;
     }
