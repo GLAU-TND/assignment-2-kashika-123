@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15880613-2666-4845-9132-3613fd475250" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/problem2/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem2/main/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/node/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/student/Student.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585397245278</updated>
-      <workItem from="1585397247227" duration="3126000" />
+      <workItem from="1585397247227" duration="3715000" />
     </task>
     <task id="LOCAL-00001" summary="creating a node variable and a list of Integer">
       <created>1585397779879</created>
@@ -177,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585400382125</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="problem 2 completed">
+      <created>1585400551469</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585400551469</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +220,8 @@
     <MESSAGE value="problem 1 completed" />
     <MESSAGE value="creating object of MyBinarySearchTree and taking user input of no of nodes and traversing according to that" />
     <MESSAGE value="taking user data and inserting in the list" />
-    <option name="LAST_COMMIT_MESSAGE" value="taking user data and inserting in the list" />
+    <MESSAGE value="problem 2 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 2 completed" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
