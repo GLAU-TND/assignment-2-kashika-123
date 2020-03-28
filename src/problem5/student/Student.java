@@ -35,5 +35,14 @@ public class Student {
     }
 
     private int backLogCounter;
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", rollNumber=" + rollNumber +
+                ", backLogCounter=" + backLogCounter +
+                '}';
+    }
 }
 
